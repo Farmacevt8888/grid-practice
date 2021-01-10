@@ -148,6 +148,10 @@ ul {
 .gallery {
 }
 .gallery__title {
+	margin: 40px 0px 30px 0px;
+	text-align: center;
+	color: rgb(238, 234, 9);
+
 }
 .gallery__items {
 	display: grid;
@@ -182,6 +186,9 @@ ul {
 .products {
 }
 .products__title {
+	margin: 40px 0px 30px 0px;
+	text-align: center;
+	color: rgb(238, 234, 9);
 }
 .products__item {
 	display: grid;
